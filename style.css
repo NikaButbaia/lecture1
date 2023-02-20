@@ -1,0 +1,13 @@
+#main-form {
+  display: grid;
+  width: 30%;
+  gap: 20px;
+  padding: 10%;
+}
+p {
+  font-size: 14px;
+  margin: 15px 0;
+  display: inline-block;
+  color: black;
+  padding: 5px 20px;
+}
